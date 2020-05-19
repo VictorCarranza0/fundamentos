@@ -4,7 +4,7 @@
 En este repositorio están las prácticas a realizar durante el trimestre. Están compuestas por un conjunto de ejercicios resueltos y un conjunto de problemas que se deben resolver. Se espera que los resultados se presenten en un repositorio parecido a este.
 
 ### Desarrollo
-Debe crear una carpeta para cada práctica, la cual debe contener archivos con código y un archivo README con las mismas secciones que este archivo. Las prácticas deben desarrollarse en lenguaje Java.
+Debe crear un directorio para cada práctica, la cual debe contener archivos con código JAVA y un archivo "README punto md" con las mismas secciones que éste archivo.
 
 ### Resultados
 En esta sección además de mostrar los resultados, puede describir las instrucciones para compilar y ejecutar el código o hablar sobre alguna particularidad del código, la organización de los archivos o las herramientas utilizadas.
