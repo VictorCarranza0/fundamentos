@@ -9,6 +9,8 @@ Debe crear un directorio para cada práctica, la cual debe contener archivos con
 ### Resultados
 En esta sección además de mostrar los resultados, puede describir las instrucciones para compilar y ejecutar el código o hablar sobre alguna particularidad del código, la organización de los archivos o las herramientas utilizadas.
 
+![res1](./imgs/res1.png "resultado 1")
+
 ~~~
 public class Principal {
 
@@ -18,8 +20,6 @@ public class Principal {
 
 }
 ~~~
-
-![res1](./imgs/res1.png "resultado 1")
 
 
 ### Discusión
@@ -31,4 +31,4 @@ Interpretación de los resultados.
 A modo de respuesta a las preguntas plantadas.
 
 
-
+:octacat: :metal: 
