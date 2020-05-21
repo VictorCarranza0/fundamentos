@@ -31,4 +31,4 @@ Interpretación de los resultados.
 A modo de respuesta a las preguntas plantadas.
 
 
-:octacat: :metal: 
+:octocat: :metal: 
