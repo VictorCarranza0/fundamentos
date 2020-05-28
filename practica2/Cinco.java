@@ -14,6 +14,8 @@ public class Cinco {
         b = s.nextDouble();
         c = s.nextDouble();
 
+
+        //Deben Revisar si funciona y/o MEJORAR
         if(a>=b && a>=c ){
             System.out.println("El mayor es a");
         }else{
