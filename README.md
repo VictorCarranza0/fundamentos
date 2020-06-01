@@ -1,7 +1,7 @@
 ## Prácticas de Fundamentos de Programación
 
 ### Resumen
-En este repositorio están las prácticas a realizar durante el trimestre. Están compuestas por un conjunto de ejercicios resueltos y un conjunto de problemas que se deben resolver. Se espera que los resultados se presenten en un repositorio parecido a este.
+En este repositorio están las prácticas a realizar durante el trimestre. Están compuestas por un conjunto de ejercicios resueltos y un conjunto de problemas que se deben resolver. Se espera que los reportes se presenten en un repositorio parecido a este.
 
 ### Desarrollo
 Debe crear un directorio para cada práctica, la cual debe contener archivos con código JAVA y un archivo "README punto md" con las mismas secciones que éste archivo.
@@ -28,7 +28,7 @@ Interpretación de los resultados.
 
 ### Conclusiones
 
-A modo de respuesta a las preguntas plantadas.
+A modo de respuesta a las preguntas plantadas o a los objetivos.
 
 
 :octocat: :metal: 

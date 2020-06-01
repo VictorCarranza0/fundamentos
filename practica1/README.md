@@ -1,5 +1,7 @@
 ## Practica 1
 
+Ambiente de desarrollo
+
 ## Resumen
 
 Se hacen diversos ejercicios para familiarizarse con el ambiente de desarrollo de programas.
