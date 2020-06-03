@@ -12,9 +12,11 @@ public class Grados {
             obtenerCF();
         }
 
-        if(respuesta == 1){
+        if(respuesta == 2){
             obtenerFC();
         }
+
+        //TODO: Implementar e invocar los métodos faltantes.
 
     }
 

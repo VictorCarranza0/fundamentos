@@ -23,7 +23,7 @@ public class PiedraPT {
     public static String evalua(String a, String b){
         String r = "aunSinGanador";
 
-            
+        //TODO: Implementar la selección del ganador
 
 
         return r;
@@ -34,6 +34,7 @@ public class PiedraPT {
         double x;
 
         x=Math.random();
+        //System.out.println(x);
 
         if( x>0 && x<0.33 ){
             r = "piedra";
