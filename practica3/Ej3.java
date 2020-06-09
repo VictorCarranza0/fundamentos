@@ -22,7 +22,7 @@ public class Ej3 {
             }
 
             if( calificacion.equals("B") ){
-                suma += 8.5;
+                suma += 8.0;
             }
 
             if( calificacion.equals("MB") ){
