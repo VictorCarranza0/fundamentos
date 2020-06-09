@@ -1,4 +1,4 @@
-### Ejemplos.
+### Ejercicios.
 
-Ejemplos sencillos para mostrar conceptos o para que sean completados.
+Ejercicios sencillos para mostrar conceptos o para que sean completados.
 
